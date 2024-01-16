@@ -1,7 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes  } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import BridalShower from './pages/BridalShower';
-import Marriage from './pages/Marriage';
 import Home from './pages/Home';
 import NavBar from './NavBar';
 import Footer from './Footer';
@@ -15,7 +14,7 @@ function AppRoutes() {
         <Route path="/bridal-shower" element={<BridalShower />} />
         {/* <Route path="/marriage" element={<Marriage />} /> */}
       </Routes>
-      <Footer/>
+      <Footer />
     </Router>
   );
 };
