@@ -1,203 +1,227 @@
 [
-  
   {
-    "id": 8,
-    "username": "Samanta & Gabriel",
+    "id": 1,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://cademeucamisa10.files.wordpress.com/2015/04/rolo-de-macarrao1.jpg",
+    "requires": false,
     "value": 150,
     "caption": "Rolo de macarrão da noiva",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490ac-328e-4cad-8d5a-ed5f520bb383"
-  },
-  {
-    "id": 9,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://www2.minijuegosgratis.com/v3/games/thumbnails/240370_1.jpg",
-    "value": 150,
-    "caption": "Capacete contra rolo de macarrão",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490ac-328e-4cad-8d5a-ed5f520bb383"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bcec-ea07-49e1-98e7-4100f034d183"
   },
   {
     "id": 2,
-    "username": "Samanta & Gabriel",
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://www2.minijuegosgratis.com/v3/games/thumbnails/240370_1.jpg",
+    "requires": false,
+    "value": 150,
+    "caption": "Capacete contra rolo de macarrão",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bcec-ea07-49e1-98e7-4100f034d183"
+  },
+  {
+    "id": 3,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://cdn.awsli.com.br/2500x2500/2390/2390852/produto/154090927/caneca-personalizada-ceramica-mulher-sabe-tudo-nerdstop-5f7ea586.jpg",
+    "requires": false,
     "value": 80,
     "caption": "A caneca preferida do noivo",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594908f-ad94-47a5-9349-43b87311e195"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd0d-99c6-4356-9f8c-d46492842014"
+  },
+  {
+    "id": 4,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://www.rbsdirect.com.br/imagesrc/24591869.jpg?w=1024&h=1024&a=c",
+    "requires": false,
+    "value": 150,
+    "caption": "Dia da noiva",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bcec-ea07-49e1-98e7-4100f034d183"
+  },
+  {
+    "id": 5,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://rd1.com.br/wp-content/uploads/2022/05/20220518-erick-jacquin.jpg",
+    "requires": false,
+    "value": 200,
+    "caption": "Curso de culinária para noivo",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd39-6b90-4484-8732-dbad8ec7006b"
+  },
+  {
+    "id": 6,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://media3.giphy.com/media/o7OChVtT1oqmk/giphy.gif?cid=ecf05e47wjxkrei6tcl05nrwwn0ywvsl94jpl4a0w3uhm4i9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "requires": false,
+    "value": 300,
+    "caption": "Pagar uma hora de cópia desse site para o noivo",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd4b-f40f-400d-afeb-f3831aa09a53"
+  },
+  {
+    "id": 7,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AsOVwP5Q2MzKHLUSGR4coMaN_GaLGwQa1ZBVNKHGf29hFoUnwno5IPnC1unGdYv0unM&usqp=CAU",
+    "requires": false,
+    "value": 50,
+    "caption": "Toma aqui uns 50 reais",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd5d-2fbc-4ecd-a837-afe9c3c2608b"
+  },
+  {
+    "id": 8,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://pa1.aminoapps.com/7443/632ecd5a2003f572242d863b573e4a66af038631r1-480-270_hq.gif",
+    "requires": false,
+    "value": 200,
+    "caption": "Aula de strip tease",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd39-6b90-4484-8732-dbad8ec7006b"
+  },
+  {
+    "id": 9,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://i.uai.com.br/FIl7Mv9vzBsSRBUww4bHORZxsrA=/1200x900/smart/imgsapp2.uai.com.br/app/noticia_133890394703/2023/02/17/318118/meninas-malvadas-e-o-maior-sucesso-da-carreira-de-lindsay-lohan_1_83744.jpg",
+    "requires": false,
+    "value": 150,
+    "caption": "Despedida de solteira da noiva",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bcec-ea07-49e1-98e7-4100f034d183"
+  },
+  {
+    "id": 10,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://www.baliloves.com.br/cdn/shop/files/calcinhadealgodao_10_800x.png?v=1684955667",
+    "requires": false,
+    "value": 80,
+    "caption": "Lingerie chic",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd0d-99c6-4356-9f8c-d46492842014"
+  },
+  {
+    "id": 11,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://static.tuasaude.com/media/article/wq/ql/como-parar-de-espirrar_27474_l.jpg",
+    "requires": false,
+    "value": 600,
+    "caption": "Espirro em Paris",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd72-d2b9-41a5-9ea6-b5e7aa0c5cf3"
   },
   {
     "id": 12,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://www.rbsdirect.com.br/imagesrc/24591869.jpg?w=1024&h=1024&a=c",
-    "value": 150,
-    "caption": "Dia da noiva",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490ac-328e-4cad-8d5a-ed5f520bb383"
-  },
-  {
-    "id": 7,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://rd1.com.br/wp-content/uploads/2022/05/20220518-erick-jacquin.jpg",
-    "value": 200,
-    "caption": "Curso de culinária para noivo",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490cb-51c6-4eb7-ab33-45d30d32b71a"
-  },
-  {
-    "id": 15,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://media3.giphy.com/media/o7OChVtT1oqmk/giphy.gif?cid=ecf05e47wjxkrei6tcl05nrwwn0ywvsl94jpl4a0w3uhm4i9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-    "value": 300,
-    "caption": "Pagar uma hora de desenvolvimento desse site para o noivo",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/65949107-357a-4a4c-b025-c5b0c22699c9"
-  },
-  {
-    "id": 1,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AsOVwP5Q2MzKHLUSGR4coMaN_GaLGwQa1ZBVNKHGf29hFoUnwno5IPnC1unGdYv0unM&usqp=CAU",
-    "value": 50,
-    "caption": "Toma aqui uns 50 reais",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594906f-711c-4a17-9250-14eff7d7cf98"
-  },
-  {
-    "id": 7,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://pa1.aminoapps.com/7443/632ecd5a2003f572242d863b573e4a66af038631r1-480-270_hq.gif",
-    "value": 200,
-    "caption": "Aula de strip tease",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490cb-51c6-4eb7-ab33-45d30d32b71a"
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://pbs.twimg.com/media/DePK5pQW4AA2Ooq.jpg",
+    "requires": false,
+    "value": 100,
+    "caption": "Cobertor para a noiva estar sempre coberta de razão",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a47075-9c98-45b0-867f-6f56195b35d8"
   },
   {
     "id": 13,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://i.uai.com.br/FIl7Mv9vzBsSRBUww4bHORZxsrA=/1200x900/smart/imgsapp2.uai.com.br/app/noticia_133890394703/2023/02/17/318118/meninas-malvadas-e-o-maior-sucesso-da-carreira-de-lindsay-lohan_1_83744.jpg",
-    "value": 150,
-    "caption": "Despedida de solteira da noiva",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490ac-328e-4cad-8d5a-ed5f520bb383"
-  },
-  {
-    "id": 14,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://www.baliloves.com.br/cdn/shop/files/calcinhadealgodao_10_800x.png?v=1684955667",
-    "value": 80,
-    "caption": "Lingerie chic",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594908f-ad94-47a5-9349-43b87311e195"
-  },
-  {
-    "id": 14,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://static.tuasaude.com/media/article/wq/ql/como-parar-de-espirrar_27474_l.jpg",
-    "value": 600,
-    "caption": "Espirro em Paris",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594912e-4382-4b45-a63a-7249600a1308"
-  },
-  {
-    "id": 14,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://pbs.twimg.com/media/DePK5pQW4AA2Ooq.jpg",
-    "value": 100,
-    "caption": "Cobertor para a noiva estar sempre coberta de razão",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490e7-2341-4c3b-ade0-b8c2ac416456"
-  },
-  {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "username": "Manoella & Julio César",
     "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0dGowZndiODJ2d3dsODRxbWIxb3AwOGowZTdtNG9qOXJhbTFzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR5IcsaRUM9HPHi/giphy.gif",
+    "requires": false,
     "value": 100,
     "caption": "Aumente 30% a sua chance de pegar o buquê",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490e7-2341-4c3b-ade0-b8c2ac416456"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a47075-9c98-45b0-867f-6f56195b35d8"
   },
   {
     "id": 14,
-    "username": "Samanta & Gabriel",
+    "username": "Manoella & Julio César",
     "imageUrl": "https://i0.wp.com/planejandomeucasamento.com.br/wp-content/uploads/2011/05/noivos_carrinho_supermercado_lukasantos.jpg?w=531&ssl=1",
+    "requires": false,
     "value": 200,
     "caption": "Feira no mercado porque a noiva come demais",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490cb-51c6-4eb7-ab33-45d30d32b71a"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd39-6b90-4484-8732-dbad8ec7006b"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 15,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://sitetray.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/o-que-vender-na-Shein.jpg",
+    "requires": false,
     "value": 80,
     "caption": "Vale da SHEIN para a noiva",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594908f-ad94-47a5-9349-43b87311e195"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd0d-99c6-4356-9f8c-d46492842014"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 16,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://itslejo.com.br/wp-content/uploads/2022/04/azulejo-alexa-lave-a-louca-bolinhas-coloridas-moldura-preta.jpg",
+    "requires": false,
     "value": 80,
     "caption": "Alexa (Para a noiva não mandar só no noivo)",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594908f-ad94-47a5-9349-43b87311e195"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd0d-99c6-4356-9f8c-d46492842014"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 17,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://img.freepik.com/vetores-gratis/sala-de-estar-em-casa-apartamento-salao-de-casa-realista-vector-ensolarado-interior-cadeira-e-mesa-de-cafe-perto-de-parede-branca-vazia-lustroso-laminado-no-chao-cortina-branca-longa-na-ilustracao-de-haste-de-janela_1441-3433.jpg",
+    "requires": false,
     "value": 800,
     "caption": "Terminar de mobiliar o apartamento",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/65949155-8d5c-4072-9b00-577c0d11deb4"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd8c-ca1f-4f92-b39d-38ccf85c0c7f"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35MyqG-2W-cCfuaBoZublJolt4hLNLmBcqTVASHkIqTGSv7VhPs0SrJSXKV5vAGuxCa0&usqp=CAU",
+    "id": 18,
+    "username": "Manoella & Julio César",
+    "imageUrl": "https://images.pexels.com/photos/6872148/pexels-photo-6872148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "requires": false,
     "value": 50,
-    "caption": "Impedir o Gabriel de assistir stream antes de dormir",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594906f-711c-4a17-9250-14eff7d7cf98"
+    "caption": "Impedir o Julio de comprar coisas pro carro",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd5d-2fbc-4ecd-a837-afe9c3c2608b"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
-    "imageUrl": "https://s.profissionaisti.com.br/wp-content/uploads/2013/04/caos-suporte-gestao-tecnologia-infraestrutura.jpg",
+    "id": 19,
+    "username": "Manoella & Julio César",
+    "imageUrl": "../assets/julin.png",
+    "requires": true,
     "value": 100,
-    "caption": "Impedir o Gabriel de levar o computador para a lua de mel",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490e7-2341-4c3b-ade0-b8c2ac416456"
+    "caption": "Impedir o Julio de jogar futebol todos os dias",
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a47075-9c98-45b0-867f-6f56195b35d8"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 20,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://cdn.deliway.com.br/blog/base/3a1/b03/323/jantar-romantico.jpg",
+    "requires": false,
     "value": 150,
     "caption": "Jantar romântico",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490ac-328e-4cad-8d5a-ed5f520bb383"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bcec-ea07-49e1-98e7-4100f034d183"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 21,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://i.pinimg.com/736x/67/4f/9f/674f9f415fe804f874b5883a81fe63bc.jpg",
+    "requires": false,
     "value": 150,
     "caption": "Manual para entender o noivo",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/659490ac-328e-4cad-8d5a-ed5f520bb383"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bcec-ea07-49e1-98e7-4100f034d183"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 22,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://d30g3jwhbbo6vl.cloudfront.net/Custom/Content/Products/04/88/0488_pao-de-queijo-tradicional-1kg_m1_637789819351736587.png",
+    "requires": false,
     "value": 80,
     "caption": "Pão de queijo no aeroporto",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594908f-ad94-47a5-9349-43b87311e195"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd0d-99c6-4356-9f8c-d46492842014"
   },
   {
-    "id": 14, 
-    "username": "Samanta & Gabriel",
+    "id": 23,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://www.ofuxico.com.br/wp-content/uploads/2022/07/servicos-streaming.jpg",
+    "requires": false,
     "value": 50,
     "caption": "1 mês de NETFLIX garantido",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594906f-711c-4a17-9250-14eff7d7cf98"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd5d-2fbc-4ecd-a837-afe9c3c2608b"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 24,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://i.pinimg.com/736x/3a/7a/73/3a7a73787195335f2baab473dcb0ec0c.jpg",
+    "requires": false,
     "value": 300,
     "caption": "Cota para perguntar quando o casal terá filhos",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/65949107-357a-4a4c-b025-c5b0c22699c9"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bd4b-f40f-400d-afeb-f3831aa09a53"
   },
   {
-    "id": 14,
-    "username": "Samanta & Gabriel",
+    "id": 25,
+    "username": "Manoella & Julio César",
     "imageUrl": "https://coracaofiel.com.br/conteudo/wp-content/uploads/2015/05/milagre.jpg",
+    "requires": false,
     "value": 0,
     "caption": "O que o seu coração e o bolso permitir ♥",
-    "pixUrl": "https://nubank.com.br/cobrar/130lu8/6594917b-32af-4bf1-bdfb-40690904f60e"
+    "pixUrl": "https://nubank.com.br/cobrar/1n3xpp/65a5bdc9-087f-4377-b0d8-16219a25f941"
   }
 ]

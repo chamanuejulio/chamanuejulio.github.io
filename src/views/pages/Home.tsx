@@ -10,16 +10,11 @@ function Home() {
         <p>Lista de presentes divertida via pix</p>
         <div className='switch'>
           <div>
-            <Link to="/bridal-shower"><button className='button'>Chá da Samanta</button></Link>
+            <Link to="/bridal-shower"><button className='button'>Chá da Manu e Julio</button></Link>
           </div>
-          {/* <div>
-            <Link  to="/marriage">
-              <button className='button' >Casamento</button>
-            </Link>
-          </div> */}
         </div>
       </div>
-  </div>
+    </div>
   );
 }
 

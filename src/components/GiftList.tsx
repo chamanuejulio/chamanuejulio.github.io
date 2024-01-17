@@ -5,6 +5,7 @@ interface Gift {
   id: number;
   username: string;
   imageUrl: string;
+  requires: boolean,
   caption: string;
   value: number;
   pixUrl: string;
@@ -13,7 +14,7 @@ interface Gift {
 interface GiftListProps {
   gifts: Gift[];
 }
-  
+
 const GiftList: React.FC<GiftListProps> = ({ gifts }) => {
   const handlePixClick = (pixUrl: string) => {
     window.open(pixUrl, '_blank', 'noopener noreferrer');
@@ -23,7 +24,7 @@ const GiftList: React.FC<GiftListProps> = ({ gifts }) => {
       {gifts.map((gift) => (
         <div key={gift.id} className="gift-post">
           <div className='contenedor-imagem'>
-            <img  src={gift.imageUrl} alt={`Post by ${gift.username}`} />
+            {gift.requires ? <img src={require('../assets/julin.png')} alt={`Post by ${gift.username}`} /> : <img src={gift.imageUrl} alt={`Post by ${gift.username}`} />}
           </div>
           <div className="caption">{gift.caption}</div>
           <div className="username">{gift.username}</div>

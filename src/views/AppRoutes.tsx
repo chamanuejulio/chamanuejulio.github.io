@@ -12,7 +12,6 @@ function AppRoutes() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/bridal-shower" element={<BridalShower />} />
-        {/* <Route path="/marriage" element={<Marriage />} /> */}
       </Routes>
       <Footer />
     </Router>

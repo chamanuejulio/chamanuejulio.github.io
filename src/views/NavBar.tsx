@@ -14,11 +14,8 @@ function NavBar() {
           <Link to="/">Home</Link>
         </li>
         <li className={location.pathname === '/bridal-shower' ? 'active' : ''}>
-          <Link to="/bridal-shower">Chá da Samanta</Link>
+          <Link to="/bridal-shower">Chá da Manu e Julio</Link>
         </li>
-        {/* <li className={location.pathname === '/marriage' ? 'active' : ''}>
-          <Link to="/marriage">Nosso Casamento</Link>
-        </li> */}
       </ul>
     </nav>
   );

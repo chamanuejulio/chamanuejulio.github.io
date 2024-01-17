@@ -5,7 +5,7 @@ import './Footer.css';
 function Footer() {
   return (
     <footer>
-      <p>&copy; 2023 Samanta & Gabriel. Todos os direitos reservados.</p>
+      <p>&copy; 2023 Manoella & Julio César. Todos os direitos reservados.</p>
     </footer>
   );
 }
